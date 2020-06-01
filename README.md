@@ -1,7 +1,4 @@
 # Board Game with Q-Learning
-
-In this term project you are required to develop a Machine Learning Application for the board game below.
-
 Rules:
  - There is a 7x7 board and one piece for each player. Initial position of these pieces is shown in Figure 1.
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/28456852/83419100-38b39c00-a42d-11ea-82a6-a231c1767c6a.PNG)
