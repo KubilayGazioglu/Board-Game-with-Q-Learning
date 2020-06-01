@@ -18,12 +18,19 @@ Game ends when one of the players has no unblocked neighbor to move.
 
 The game will be played between AI and the  user. In the beginning, your program will input if the user will be player 1 or 2. If the user is player 1, then he/she will make the first move. Else the computer will make the first move.
 ### Computer’s Turn
+
 Computer will first move its piece and print the coordinates of the new position. 
-g5
- This means that computer has moved its piece to g5.
-And then it will block a square from board and print the coordinates of that square.
+
+ g5
+ 
+This means that computer has moved its piece to g5.
+
+And then it will block a square from board and print the coordinates of that square. 
+
 c4
+
 In this example computer blocks the square c4.
+
 Then the current configuration of the board will be displayed.
 ### User’s  Turn
 The user will type his/her move in same structure as the computer. First, the new coordinates of the piece will be given and after that the coordinates of the square that will be blocked. For example
